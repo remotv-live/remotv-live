@@ -1,5 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=650x720
-#EXT-X-KEY:METHOD=AES-128,URI="http://example.com/keyfile"
-#EXT-X-SESSION-KEY:SESSION-ID="your_session_id",KEY="your_key"
 http://fooootball.online:8080/live/EgeCfb62LtBY/pYK63hu9ewtv/45.m3u8
