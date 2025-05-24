@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:27465
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+http://fooootball.online:8080/live/EgeCfb62LtBY/pYK63hu9ewtv/45.m3u8
+#EXTINF:6.64,
+http://fooootball.online:8080/live/EgeCfb62LtBY/pYK63hu9ewtv/45.m3u8
+#EXTINF:8.48,
+http://fooootball.online:8080/live/EgeCfb62LtBY/pYK63hu9ewtv/45.m3u8
+#EXTINF:10,
+http://fooootball.online:8080/live/EgeCfb62LtBY/pYK63hu9ewtv/45.m3u8
+#EXTINF:10,
+http://fooootball.online:8080/live/EgeCfb62LtBY/pYK63hu9ewtv/45.m3u8
